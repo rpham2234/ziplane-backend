@@ -1,0 +1,125 @@
+{ 
+  "version":"0.1.1",
+  "dates":{ 
+      "6/26/2024":{ 
+          "entree1":"Chicken Mash Potato Bowl",
+          "entree2":"Spicy Chicken Sandwich",
+          "entree3":"Cheesy Breadsticks",
+          "entree4":"Buffalo Chicken Pizza",
+          "entree5":"Bean & Cheese Burrito",
+          "entree6":"PB & J Sandwich",
+          "fruit1":"Peach Cup",
+          "fruit2":"Apple Juice",
+          "fruit3":"Baby Carrots",
+          "fruit4":"Seasoned Black Beans"
+      },
+      "6/27/2024":{ 
+          "entree1":"Orange Chicken w/ Rice",
+          "entree2":"Cheeseburger",
+          "entree3":"Honey BBQ Pork Sandwich",
+          "entree4":"Pepperoni Jalapeno Pizza",
+          "entree5":"Cheese Pizza",
+          "entree6":"PB & J Sandwich",
+          "fruit1":"Fresh Banana",
+          "fruit2":"Fruit Punch",
+          "fruit3":"Corn",
+          "fruit4":"Green Peas"
+      },
+      "6/28/2024":{ 
+          "entree1":"Penne Pasta w/ Meatballs",
+          "entree2":"Pho Soup",
+          "entree3":"Chicken Nuggets & Fries",
+          "entree4":"Turkey & Cheese Sandwich",
+          "entree5":"Pepperoni Pizza",
+          "entree6":"Cheese Pizza",
+          "fruit1":"Fresh Apple",
+          "fruit2":"Orange Juice",
+          "fruit3":"Baby Carrots",
+          "fruit4":"Mediterranean Beans"
+      },
+      "6/29/2024":{ 
+          "entree1":"Chick Tortilla Soup",
+          "entree2":"Cheeseburger",
+          "entree3":"Honey BBQ Bf Rib Sandwich",
+          "entree4":"Spicy Chicken Wrap",
+          "entree5":"Hawaiian Pizza",
+          "entree6":"Cheesy Breadsticks",
+          "fruit1":"Fresh Orange",
+          "fruit2":"Apple Juice",
+          "fruit3":"Steamed Broccoli",
+          "fruit4":"Corn"
+      },
+      "6/30/2024":{ 
+          "entree1":"Chicken Burrito",
+          "entree2":"Spicy Chicken Sandwich",
+          "entree3":"Tuna Salad Sandwich",
+          "entree4":"Veggie Pizza",
+          "entree5":"Pepperoni Pizza",
+          "entree6":"PB & J Sandwich",
+          "fruit1":"Apple Crisp",
+          "fruit2":"Fruit Punch",
+          "fruit3":"Baby Carrots",
+          "fruit4":"Refried Beans"
+      },
+      "7/1/2024":{ 
+          "entree1":"Teriyaki Bf Dunker w/Rice",
+          "entree2":"Chicken Tenders w/ Fries",
+          "entree3":"Honey BBQ Pork Sandwich",
+          "entree4":"Buffalo Chicken Pizza",
+          "entree5":"Cheese Pizza",
+          "entree6":"Bean & Cheese Burrito",
+          "fruit1":"Peach Cup",
+          "fruit2":"Apple Juice",
+          "fruit3":"Baby Carrots",
+          "fruit4":"Spicy Vegetarian Beans"
+      },
+      "7/2/2024":{ 
+          "entree1":"BBQ Beef Rib Mashed Potato",
+          "entree2":"Broccoli Cheddar Soup",
+          "entree3":"Spicy Chicken Sandwich",
+          "entree4":"Pepperoni Jalapeno Pizza",
+          "entree5":"Cheesy Breadsticks",
+          "entree6":"PB & J Sandwich",
+          "fruit1":"Fresh Banana",
+          "fruit2":"Fruit Punch",
+          "fruit3":"Corn",
+          "fruit4":"Green Peas"
+      },
+      "7/3/2024":{ 
+          "entree1":"Buffalo Chicken w/ Rice",
+          "entree2":"Honey BBQ Bf Rib Sandwich",
+          "entree3":"Spicy Chicken Salad",
+          "entree4":"Cheese Pizza",
+          "entree5":"Pepperoni Pizza",
+          "entree6":"Bean & Cheese Burrito",
+          "fruit1":"Fresh Apple",
+          "fruit2":"Orange Juice",
+          "fruit3":"Baby Carrots",
+          "fruit4":"Mediterranean Beans"
+      },
+      "7/4/2024":{ 
+          "entree1":"Chicken Noodle Soup",
+          "entree2":"Street Taco",
+          "entree3":"Spicy Chicken Wrap",
+          "entree4":"Hawaiian Pizza",
+          "entree5":"Cheese Pizza",
+          "entree6":"PB & J Sandwich",
+          "fruit1":"Fresh Orange",
+          "fruit2":"Apple Juice",
+          "fruit3":"Steamed Broccoli",
+          "fruit4":"Corn"
+      },
+      "7/5/2024":{ 
+          "entree1":"Fish Filet Sandwich",
+          "entree2":"Super Nachos w/Beef",
+          "entree3":"Cheeseburger",
+          "entree4":"Cheesy Breadsticks",
+          "entree5":"Veggie Pizza",
+          "entree6":"PB & J Sandwich",
+          "fruit1":"Apple Crisp",
+          "fruit2":"Fruit Punch",
+          "fruit3":"Fresh Fruit",
+          "fruit4":"Baby Carrots"
+      }
+  }
+}

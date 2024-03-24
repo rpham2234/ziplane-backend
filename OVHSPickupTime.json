@@ -1,0 +1,445 @@
+{
+    "version": "0.1.1",
+    "dates": {
+        "6/26/2020": {
+            "1": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            },
+            "2": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            },
+            "3": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 1
+            },
+            "4": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            },
+            "5": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            },
+            "6": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            }
+        },
+        "6/27/2020": {
+            "1": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 1
+            },
+            "2": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            },
+            "3": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            },
+            "4": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            },
+            "5": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            },
+            "6": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            }
+        },
+        "6/28/2020": {
+            "1": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            },
+            "2": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            },
+            "3": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            },
+            "4": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            },
+            "5": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            },
+            "6": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            }
+        },
+        "6/29/2020": {
+            "1": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            },
+            "2": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            },
+            "3": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            },
+            "4": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            },
+            "5": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            },
+            "6": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            }
+        },
+        "6/30/2020": {
+            "1": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            },
+            "2": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            },
+            "3": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            },
+            "4": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            },
+            "5": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            },
+            "6": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            }
+        },
+        "7/1/2020": {
+            "1": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            },
+            "2": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            },
+            "3": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            },
+            "4": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            },
+            "5": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            },
+            "6": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            }
+        },
+        "7/2/2020": {
+            "1": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            },
+            "2": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            },
+            "3": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            },
+            "4": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            },
+            "5": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            },
+            "6": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            }
+        },
+        "6/19/2020": {
+            "1": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            },
+            "2": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            },
+            "3": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            },
+            "4": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            },
+            "5": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            },
+            "6": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            }
+        },
+        "7/3/2020": {
+            "1": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            },
+            "2": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            },
+            "3": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            },
+            "4": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            },
+            "5": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            },
+            "6": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            }
+        },
+        "7/4/2020": {
+            "1": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            },
+            "2": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            },
+            "3": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            },
+            "4": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            },
+            "5": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            },
+            "6": {
+                "startTimeHr": 12,
+                "startTimeMin": 0,
+                "slotTime": 5,
+                "numPerSlot": 1,
+                "slotsTaken": 0
+            }
+        }
+    }
+}
