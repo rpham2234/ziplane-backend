@@ -4,7 +4,7 @@ const fs   = require('fs');
 
 const hostname = process.env.HOSTNAME || "192.168.1.115"; // use your pi's IP address here
  
-const port = 80;
+const port = process.env.PORT || 80;
 
 // GET http://192.168.0.110:80/Menu
 // GET http://192.168.1.10.121:80/Students
